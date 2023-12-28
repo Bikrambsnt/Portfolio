@@ -37,7 +37,7 @@ box-sizing: border-box;
     list-style: none;
     width: 20px;
     height: 20px;
-    background: rgba(237, 166, 24, 0.607);
+    background: rgba(74, 178, 192, 0.607);
     animation: animate 20s linear infinite;
     bottom: -150px;
     
@@ -361,29 +361,29 @@ button:hover{
   }
   .dot-a{
     position:absolute;
-    top: 20%;
+    top: 23%;
     left: 50%;
   }
   .dot-b{
     position: absolute;
-    top: 40%;
+    top: 44%;
     left: 50%;
   }
   .dot-c{
     position:absolute;
-    top: 53%;
+    top: 58%;
     left: 50%;
   }
   .dot-d{
     position: absolute;
     left: 50%;
-    top: 71%;
+    top: 78%;
 
   }
   .dot-e{
  position: absolute;
  left: 50%;
- top: 84%;
+ top: 92%;
   }
 .middle-line {
     position: absolute;
@@ -515,7 +515,7 @@ transition: transform 0.5s ease-in-out;
 .top-text-e{
     color: #fff;
     font-size: 20px;
-    margin-top: 180px;
+    margin-top: 60px;
 }
 
 .card-4 , .card-6 ,.card-8{
@@ -526,7 +526,7 @@ transition: transform 0.5s ease-in-out;
     background-color: rgb(213, 211, 211);
     box-shadow: 20px 20px 60px rgba(0, 0, 0, 0.274), inset -20px -20px 60px rgba(0, 0, 0, 0.322);
     padding: 45px;
-   margin-left: 42rem;
+   margin-left: 37rem;
    margin-top: -21rem;
     display: flex;
     justify-content: center;
@@ -609,3 +609,5 @@ footer {
     margin: 0 auto;
     font-size: 20px;
 }
+
+
